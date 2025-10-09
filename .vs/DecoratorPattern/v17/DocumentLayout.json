@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roelj\\Downloads\\factorymethode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\beverages\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\beverages\\coffeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\coffeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\syrup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\syrup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\beverages\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\blackchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\blackchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\wiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\wiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\halfmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\halfmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\milkfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\milkfoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\steamedmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\steamedmilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\whitechocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\whitechocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\sugervanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\sugervanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\liqour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\liqour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|c:\\users\\roelj\\downloads\\factorymethode\\condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E66C56-1124-4691-9ACD-FC3161D1670E}|DecoratorPattern.csproj|solutionrelative:condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:11:16.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Chocolate.cs",
+              "RelativeDocumentMoniker": "Beverages\\Chocolate.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Chocolate.cs",
+              "RelativeToolTip": "Beverages\\Chocolate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:10:37.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Beverage.cs",
+              "RelativeDocumentMoniker": "Beverages\\Beverage.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Beverage.cs",
+              "RelativeToolTip": "Beverages\\Beverage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:47:10.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\CoffeeFactory.cs",
+              "RelativeDocumentMoniker": "Beverages\\CoffeeFactory.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\CoffeeFactory.cs",
+              "RelativeToolTip": "Beverages\\CoffeeFactory.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAtwKEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:18:25.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Whip.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Whip.cs",
+              "RelativeDocumentMoniker": "Condiments\\Whip.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Whip.cs",
+              "RelativeToolTip": "Condiments\\Whip.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:59:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Syrup.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Syrup.cs",
+              "RelativeDocumentMoniker": "Condiments\\Syrup.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Syrup.cs",
+              "RelativeToolTip": "Condiments\\Syrup.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:41.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Wiskey.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Wiskey.cs",
+              "RelativeDocumentMoniker": "Condiments\\Wiskey.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Wiskey.cs",
+              "RelativeToolTip": "Condiments\\Wiskey.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:09:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeverageFactory.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\BeverageFactory.cs",
+              "RelativeDocumentMoniker": "Beverages\\BeverageFactory.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\BeverageFactory.cs",
+              "RelativeToolTip": "Beverages\\BeverageFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:25:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Water.cs",
+              "RelativeDocumentMoniker": "Beverages\\Water.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Water.cs",
+              "RelativeToolTip": "Beverages\\Water.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:10:39.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Milk.cs",
+              "RelativeDocumentMoniker": "Beverages\\Milk.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Milk.cs",
+              "RelativeToolTip": "Beverages\\Milk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:00:18.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlackChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\BlackChocolate.cs",
+              "RelativeDocumentMoniker": "Condiments\\BlackChocolate.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\BlackChocolate.cs",
+              "RelativeToolTip": "Condiments\\BlackChocolate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA8wB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:36:11.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HalfMilk.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\HalfMilk.cs",
+              "RelativeDocumentMoniker": "Condiments\\HalfMilk.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\HalfMilk.cs",
+              "RelativeToolTip": "Condiments\\HalfMilk.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Espresso.cs",
+              "RelativeDocumentMoniker": "Beverages\\Espresso.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Beverages\\Espresso.cs",
+              "RelativeToolTip": "Beverages\\Espresso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:34:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IceCream.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\IceCream.cs",
+              "RelativeDocumentMoniker": "Condiments\\IceCream.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\IceCream.cs",
+              "RelativeToolTip": "Condiments\\IceCream.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:08.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SteamedMilk.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\SteamedMilk.cs",
+              "RelativeDocumentMoniker": "Condiments\\SteamedMilk.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\SteamedMilk.cs",
+              "RelativeToolTip": "Condiments\\SteamedMilk.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAawCMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:57:44.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MilkFoam.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\MilkFoam.cs",
+              "RelativeDocumentMoniker": "Condiments\\MilkFoam.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\MilkFoam.cs",
+              "RelativeToolTip": "Condiments\\MilkFoam.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawCMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:56:33.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WhiteChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\WhiteChocolate.cs",
+              "RelativeDocumentMoniker": "Condiments\\WhiteChocolate.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\WhiteChocolate.cs",
+              "RelativeToolTip": "Condiments\\WhiteChocolate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:36:02.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SugerVanilla.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\SugerVanilla.cs",
+              "RelativeDocumentMoniker": "Condiments\\SugerVanilla.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\SugerVanilla.cs",
+              "RelativeToolTip": "Condiments\\SugerVanilla.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:58:45.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mocha.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Mocha.cs",
+              "RelativeDocumentMoniker": "Condiments\\Mocha.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Mocha.cs",
+              "RelativeToolTip": "Condiments\\Mocha.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:57:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Liqour.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Liqour.cs",
+              "RelativeDocumentMoniker": "Condiments\\Liqour.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Liqour.cs",
+              "RelativeToolTip": "Condiments\\Liqour.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:56:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Lemon.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Lemon.cs",
+              "RelativeDocumentMoniker": "Condiments\\Lemon.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Lemon.cs",
+              "RelativeToolTip": "Condiments\\Lemon.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:57:54.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Ice.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Ice.cs",
+              "RelativeDocumentMoniker": "Condiments\\Ice.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Ice.cs",
+              "RelativeToolTip": "Condiments\\Ice.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:21.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Honey.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Honey.cs",
+              "RelativeDocumentMoniker": "Condiments\\Honey.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Honey.cs",
+              "RelativeToolTip": "Condiments\\Honey.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:58:55.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cream.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Cream.cs",
+              "RelativeDocumentMoniker": "Condiments\\Cream.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\Cream.cs",
+              "RelativeToolTip": "Condiments\\Cream.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:58:26.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CondimentDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\CondimentDecorator.cs",
+              "RelativeDocumentMoniker": "Condiments\\CondimentDecorator.cs",
+              "ToolTip": "C:\\Users\\roelj\\Downloads\\factorymethode\\Condiments\\CondimentDecorator.cs",
+              "RelativeToolTip": "Condiments\\CondimentDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:46:27.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
